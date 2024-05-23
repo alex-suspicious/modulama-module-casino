@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐑 Example modulama moule 🤖
+  🐑 Example modulama module 🤖
   <br>
 </h1>
 
